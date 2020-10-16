@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap");
 :root {
-    /* --header-height: 3rem; */
+    --header-height: 3rem;
     --font-medium: 500;
 }
 
@@ -511,8 +511,8 @@ img {
         padding: 4rem 0;
     }
     .about__img {
-        width: 200px;
-        height: 200px;
+        width: 180px;
+        height: 180px;
     }
     .about__img img {
         width: 190px;
