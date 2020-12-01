@@ -319,7 +319,7 @@ img {
 }
 
 .skills__html {
-    width: 60%;
+    width: 50%;
 }
 
 .skills__bootstrap {
@@ -327,7 +327,7 @@ img {
 }
 
 .skills__angular {
-    width: 45%;
+    width: 40%;
 }
 
 .skills__mysql {
@@ -338,8 +338,12 @@ img {
     width: 50%;
 }
 
-.skills__ae {
-    width: 40%;
+.skills__php {
+    width: 50%;
+}
+
+.skills__office {
+    width: 50%;
 }
 
 .skills__w {
