@@ -339,7 +339,11 @@ img {
 }
 
 .skills__php {
-    width: 50%;
+    width: 30%;
+}
+
+.skills__figma {
+    width: 30%;
 }
 
 .skills__office {
