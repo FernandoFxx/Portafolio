@@ -180,9 +180,6 @@ img {
     right: 0;
 }
 
-
-/*Active menu*/
-
 .active::after {
     position: absolute;
     content: "";
@@ -321,19 +318,19 @@ img {
 }
 
 .skills__html {
-    width: 50%;
+    width: 65%;
 }
 
 .skills__bootstrap {
-    width: 50%;
+    width: 60%;
 }
 
 .skills__angular {
-    width: 40%;
+    width: 50%;
 }
 
 .skills__mysql {
-    width: 40%;
+    width: 50%;
 }
 
 .skills__ps {
@@ -341,11 +338,11 @@ img {
 }
 
 .skills__php {
-    width: 30%;
+    width: 34%;
 }
 
 .skills__figma {
-    width: 30%;
+    width: 60%;
 }
 
 .skills__office {
@@ -353,11 +350,11 @@ img {
 }
 
 .skills__w {
-    width: 30%;
+    width: 50%;
 }
 
 .skills__git {
-    width: 50%;
+    width: 60%;
 }
 
 .portfolio {
